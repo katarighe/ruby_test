@@ -18,3 +18,16 @@ irb(main)> def hello(name)
 irb(main)>   puts("Hello #{name}!")
 irb(main)> end
 => :hello
+
+def add(3.14, 1.618)
+    """Returns the addition of the two arguments.
+  
+    Args:
+      a: A number.
+      b: A number.
+  
+    Returns:
+      The sum of a and b.
+    """
+    return a + b
+  end
