@@ -19,7 +19,7 @@ irb(main)>   puts("Hello #{name}!")
 irb(main)> end
 => :hello
 
-def add(3.14, 1.618)
+put add(3.14, 1.618)
     """Returns the addition of the two arguments.
   
     Args:
